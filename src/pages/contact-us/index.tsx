@@ -41,8 +41,13 @@ export default function ContactUs(){
                 </div>
             </div>
             
-            <div className="container">
-                
+            <div className="container" style={{marginTop:100}}>
+                <div className="card border-0">
+                    <div className="card-body">
+                        <h5 className="card-title text-center" style={{fontSize:50, color:"black"}}>“</h5>
+                        <p className="card-text text-center" style={{fontSize:40, color:"black"}}>“Technology is dominated by two types of people: those who understand what they do not manage and those who manage what they do not understand.”</p>
+                    </div>
+                </div>
             </div>
         </div>
     )
