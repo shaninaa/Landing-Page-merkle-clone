@@ -11,9 +11,9 @@ export default function navbar(){
             <div className="container">
                 <Image src={logo} alt="logo merkle" width={250} height={90}/>
                     <ul className="navbar-link">
-                        <Link href="/landing-page"><a className="">Home</a></Link>
+                        <Link href="/Landing-page"><a className="">Home</a></Link>
                         <a> </a>
-                        <Link href="/"><a>Contact</a></Link>
+                        <Link href="/contact-us"><a>Contact</a></Link>
                     </ul>
             </div>
         </nav>
